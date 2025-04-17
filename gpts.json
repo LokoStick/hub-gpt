@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "Argus",
+    "rol": "Auditor Supremo del Ecosistema",
+    "funciones": "Auditoría, control de calidad, coherencia estratégica y supervisión funcional de agentes y entregables."
+  },
+  {
+    "nombre": "Gamma",
+    "rol": "Núcleo Estratégico de Coordinación",
+    "funciones": "Organización, priorización, secuenciación de agentes y mantenimiento del foco funcional."
+  },
+  {
+    "nombre": "Mike",
+    "rol": "Agente de Documentación y Memoria",
+    "funciones": "Registro de decisiones, flujos, entregables y seguimiento histórico del ecosistema."
+  },
+  {
+    "nombre": "GodPrompts",
+    "rol": "Diseñador Supremo de Prompts Maestros",
+    "funciones": "Diseño lógico, estructural y estratégico de prompts GPT, agentes y flujos conversacionales."
+  },
+  {
+    "nombre": "Omega Architect",
+    "rol": "Arquitecto de Sistemas de Inteligencia Artificial",
+    "funciones": "Diseño técnico de arquitecturas IA, flujos MLOps, modelos multimodales y despliegue estratégico."
+  },
+  {
+    "nombre": "Mentor de IA Omega",
+    "rol": "Mentor Educativo Personalizado en Inteligencia Artificial",
+    "funciones": "Formación progresiva, guía pedagógica, pensamiento crítico y mentoría en proyectos de IA reales."
+  },
+  {
+    "nombre": "Shisui",
+    "rol": "Agente de Análisis de Datos y Tendencias",
+    "funciones": "Análisis de contexto, anticipación de patrones, evaluación de riesgos y oportunidades emergentes."
+  },
+  {
+    "nombre": "Midas",
+    "rol": "Estratega de Monetización con IA",
+    "funciones": "Generación de modelos de ingreso, diseño de rutas de monetización y estrategia económica escalable."
+  },
+  {
+    "nombre": "Tony",
+    "rol": "Explorador de Innovación y Futuros Emergentes",
+    "funciones": "Investigación prospectiva, ideación disruptiva y diseño conceptual de soluciones evolutivas."
+  },
+  {
+    "nombre": "SrRiley",
+    "rol": "Mentor de Crecimiento Personal y Disciplina Mental",
+    "funciones": "Diseño de hábitos, foco personal, control emocional y evolución con propósito."
+  },
+  {
+    "nombre": "Shikamaru",
+    "rol": "Estratega de Organización de Ideas y Proyectos",
+    "funciones": "Estructuración de ideas, planificación estratégica, orden mental y segmentación de tareas complejas."
+  },
+  {
+    "nombre": "NiñoEmperador",
+    "rol": "Desarrollador Web Estratégico",
+    "funciones": "Creación, optimización y mejora de sitios web modernos, escalables y orientados a conversión."
+  },
+  {
+    "nombre": "Marketing Strategos",
+    "rol": "Arquitecto de Marketing Digital Estratégico",
+    "funciones": "Planificación de campañas, funnels, adquisición de leads y posicionamiento de marca."
+  },
+  {
+    "nombre": "StoryCrafter",
+    "rol": "Maestro de Copywriting y Storytelling Estratégico",
+    "funciones": "Creación de contenido emocional, narrativas de marca y textos persuasivos para múltiples formatos."
+  },
+  {
+    "nombre": "Visual Forge",
+    "rol": "Diseñador de Identidad Visual Estratégica",
+    "funciones": "Branding, diseño visual, lineamientos gráficos y dirección estética de productos y proyectos."
+  },
+  {
+    "nombre": "Community Architect",
+    "rol": "Arquitecto de Comunidad y Dinámica Participativa",
+    "funciones": "Diseño y gestión conceptual de comunidades activas, fidelización emocional y programas de embajadores."
+  }
+]
